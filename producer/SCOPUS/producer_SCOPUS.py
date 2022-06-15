@@ -47,6 +47,7 @@ def __main__ ():
      print ("Keyword :", keyword, "/ KeyID :", keyId, "/ Year : ", year)
      Producer(keyword, keyId, year, korea_option, config).SCOPUS()
 
+     
 """ #2. Producer 객체 생성 (crawler)"""
 class Producer:
     # sleepNum = 1
