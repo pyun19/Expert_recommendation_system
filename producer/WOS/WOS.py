@@ -27,7 +27,6 @@ import csv
 import random
 
 
-
 class WOS_crawler:
     '''
     @ Method Name     : __init__
