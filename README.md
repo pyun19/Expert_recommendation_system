@@ -35,6 +35,7 @@
 
 ![image](https://user-images.githubusercontent.com/62095363/173773184-90148c12-a805-4704-a537-4c90f801b6cd.png)
 
+
 - 국내 및 해외 학술 검색 사이트 **Open API/Crawling**을 통한 **데이터 수집** 및 **데이터 전처리기 개발**
 - **Message Queue(Apache Kafka)**를 이용한 **실시간 데이터 처리 시스템 개발**
 - **MongoDB** 데이터 **저장 및 관리**
