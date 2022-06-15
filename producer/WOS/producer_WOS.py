@@ -21,7 +21,6 @@ from ParsingHelper_WOS import FileObserver
 from multiprocessing import Process, Value
 from ParsingHelper_WOS import FileUpdateHandler
 
-
 logging.basicConfig()
 logger = logging.getLogger('retry_count')
 logger.setLevel(logging.INFO)
