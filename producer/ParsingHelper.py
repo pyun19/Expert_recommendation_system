@@ -14,6 +14,7 @@ from kafka import KafkaProducer
 from pyjarowinkler import distance
 csv.field_size_limit(sys.maxsize)
 
+
 class Parser :
     '''
     @ Method Name     : __init__
