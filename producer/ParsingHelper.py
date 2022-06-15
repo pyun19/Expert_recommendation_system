@@ -12,7 +12,6 @@ import sys, os, re, math, logging, time, json, xlrd, retry, pprint
 from json import dumps
 from kafka import KafkaProducer
 from pyjarowinkler import distance
-
 csv.field_size_limit(sys.maxsize)
 
 class Parser :
