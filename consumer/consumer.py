@@ -10,6 +10,7 @@ from kafka import KafkaConsumer
 from json import loads
 
 
+
 """ #1. 컨슈머 객체 생성 (Thread) """
 class Consumer(threading.Thread):
     #MongoDB URI
