@@ -13,7 +13,7 @@
 
 3) 결과 출력(전문가 순위 및 전문가 관계 정보)
 ![image](https://user-images.githubusercontent.com/62095363/173772898-757e9839-2c02-4b38-8030-55b629e9db61.png)
-![image](https://user-images.githubusercontent.com/62095363/173772923-8d857038-e6dd-4b57-be58-ab5a13470534.png)
+![image](https://user-images.githubusercontent.com/62095363/173774711-fb40bbbb-d97c-4db7-ae17-fdaebdee24f1.png)
 
 
 
