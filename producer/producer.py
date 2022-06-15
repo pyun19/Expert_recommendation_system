@@ -30,10 +30,9 @@ import logging as log
 import csv
 import shutil
 import os.path
-#import pprint
-# import async
 from multiprocessing.managers import BaseManager
 from multiprocessing import Process, Value, Array, Lock
+
 
 logging.basicConfig()
 logger = logging.getLogger('retry_count')
