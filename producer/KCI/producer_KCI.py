@@ -1,9 +1,3 @@
-#-*- coding:utf-8 -*-
-# my_pc : z40kj740zp2w34tuql0a
-# server_pc : hwbpt09z26145s5ca2cz
-# pip install requests
-# pip install bs4
-# pip install selenium
 from selenium.webdriver.common.alert import Alert
 import requests, xmltodict, datetime, openpyxl, asyncio, functools
 import sys, os, re, math, logging, time, json, xlrd, retry, pprint
