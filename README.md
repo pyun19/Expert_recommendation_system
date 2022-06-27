@@ -36,12 +36,12 @@
 ![image](https://user-images.githubusercontent.com/62095363/173773184-90148c12-a805-4704-a537-4c90f801b6cd.png)
 
 
-- 국내 및 해외 학술 검색 사이트 **Open API/Crawling**을 통한 **데이터 수집** 및 **데이터 전처리기 개발**
-- **Message Queue(Apache Kafka)** 를 이용한 **실시간 데이터 처리 시스템 개발**
-- **MongoDB** Raw 데이터 **저장 및 관리**
-- **Multi Processing** 을 적용하여 기존 수집기 대비 **처리 속도 향상(250% 이상 향상)**
+- 국내 및 해외 학술 검색 사이트 **Open API/ Web Crawling**을 통한 **데이터 수집** 및 **데이터 전처리기 개발**
+- **Message Queue(Apache Kafka)**를 이용한 **실시간 데이터 처리 시스템 개발**
+- **MongoDB**를 활용한 **논문, 저자** **데이터 저장 및 관리**
+- **Multi Processing**을 적용하여 기존 수집기 대비 **처리 속도 향상(250% 이상 향상)**
 - **MongoDB** 복합 인덱스를 통한 slow query 튜닝 개선
-- 동일 저자 판별 알고리즘 개발(약칭, 풀네임, Ms, Mr, 소속 변경 등 비교 및 판별)
+- **동일 저자 판별 기능 개선**(약칭, 풀네임, 결혼 후 여성 저자의 성(姓) 변경, 소속 변경 등)
 
 
 
