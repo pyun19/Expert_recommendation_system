@@ -37,7 +37,7 @@
 
 
 - 국내 및 해외 학술 검색 사이트 **Open API/ Web Crawling**을 통한 **데이터 수집** 및 **데이터 전처리기 개발**
-- **Message Queue(Apache Kafka)**를 이용한 **실시간 데이터 처리 시스템 개발**
+- **Message Queue(Apache Kafka)** 를 이용한 **실시간 데이터 처리 시스템 개발**
 - **MongoDB**를 활용한 **논문, 저자** **데이터 저장 및 관리**
 - **Multi Processing**을 적용하여 기존 수집기 대비 **처리 속도 향상(250% 이상 향상)**
 - **MongoDB** 복합 인덱스를 통한 slow query 튜닝 개선
